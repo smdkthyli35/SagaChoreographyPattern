@@ -43,3 +43,9 @@ D:\NetCoreRepos\SagaChoreographyPattern\Stock.API\obj\Debug\net6.0\Stock.API.gen
 D:\NetCoreRepos\SagaChoreographyPattern\Stock.API\obj\Debug\net6.0\ref\Stock.API.dll
 D:\NetCoreRepos\SagaChoreographyPattern\Stock.API\bin\Debug\net6.0\Shared.dll
 D:\NetCoreRepos\SagaChoreographyPattern\Stock.API\bin\Debug\net6.0\Shared.pdb
+D:\NetCoreRepos\SagaChoreographyPattern\Stock.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NetCoreRepos\SagaChoreographyPattern\Stock.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NetCoreRepos\SagaChoreographyPattern\Stock.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\NetCoreRepos\SagaChoreographyPattern\Stock.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NetCoreRepos\SagaChoreographyPattern\Stock.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NetCoreRepos\SagaChoreographyPattern\Stock.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
